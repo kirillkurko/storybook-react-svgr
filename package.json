@@ -1,0 +1,21 @@
+{
+  "name": "storybook-react-svgr",
+  "version": "1.0.0",
+  "description": "Storybook SVGR plugin for react to allow imports of .svg files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Storybook",
+    "SVGR",
+    "React",
+    "svg"
+  ],
+  "author": "Kirill Kurko",
+  "license": "MIT",
+  "dependencies": {
+    "@svgr/webpack": "^6.2.1",
+    "file-loader": "^6.2.0"
+  }
+}
