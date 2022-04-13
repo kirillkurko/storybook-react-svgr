@@ -1,10 +1,10 @@
 {
   "name": "@kkurko/storybook-react-svgr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Storybook SVGR plugin for react to allow imports of .svg files",
   "main": "index.js",
   "bugs": {
-  "url": "https://github.com/KirillKurko/storybook-react-svgr"
+    "url": "https://github.com/KirillKurko/storybook-react-svgr"
   },
   "homepage": "https://github.com/KirillKurko/storybook-react-svgr",
   "repository": "https://github.com/KirillKurko/storybook-react-svgr",
